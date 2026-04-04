@@ -149,3 +149,11 @@ h1 {
 19. Grid
 20. Variables
 21. Misc
+
+
+# Tailwind
+
+CSS Framework
+Used for building UI rapidly
+We use predefined utility classes directly in HTML
+Highly customizable, works in dark mode, JIT (Just in time) compiler for faster builds
