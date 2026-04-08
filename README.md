@@ -157,3 +157,30 @@ CSS Framework
 Used for building UI rapidly
 We use predefined utility classes directly in HTML
 Highly customizable, works in dark mode, JIT (Just in time) compiler for faster builds
+
+
+## JavaScript
+
+High-level programming language
+Interpreted programming language
+Built on C++
+Dynamically typed programming language
+ECMA Script (ES6 2015) Standardization of JS
+Used to build interactive web pages, API, backend
+NodeJS, Electron.js, React Native, Tensorflow.js, React, Vue
+====================
+
+Conditional statement
+Loop
+Function
+EcmaScript
+Template literals
+Spread operator
+...
+Array Methods
+Misc
+====================== NodeJS
+Events Callback, Promise, Async/Await FileSystem
+
+======================= React
+DOM Manipulation
