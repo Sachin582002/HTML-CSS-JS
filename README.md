@@ -131,7 +131,7 @@ h1 {
 1. Color, Background Color
 2. Text
 3. Font
-4. Box model: margin, padding, border
+4. Box model: margin, padding, border, height, width
 5. Display
 6. Flex
 7. List
@@ -144,43 +144,49 @@ h1 {
 14. Icon
 15. Background image
 16. Transform
-17. Animation
-18. Responsive design
-19. Grid
+17. Grid
+18. Animation
+19. Responsive design
 20. Variables
 21. Misc
 
 
-# Tailwind
+## Tailwind
 
-CSS Framework
-Used for building UI rapidly
-We use predefined utility classes directly in HTML
-Highly customizable, works in dark mode, JIT (Just in time) compiler for faster builds
-
+- CSS Framework
+- Used for building UI rapidly
+- We use predefined utility classes directly in HTML
+- Highly customizable, works in dark mode, JIT (Just in time) compiler for faster builds
 
 ## JavaScript
 
-High-level programming language
-Interpreted programming language
-Built on C++
-Dynamically typed programming language
-ECMA Script (ES6 2015) Standardization of JS
-Used to build interactive web pages, API, backend
-NodeJS, Electron.js, React Native, Tensorflow.js, React, Vue
+- High-level programming language
+- Interpreted programming language
+- Built on C++
+- Dynamically typed programming language
+- ECMA Script (ES6 2015) Standardization of JS
+- Used to build interactive web pages, API, backend
+- NodeJS, Electron.js, React Native, Tensorflow.js, React, Vue
+
 ====================
+1. Conditional statement
+2. Loop
+3. Function
+4. EcmaScript
+    - Template literals
+    - Spread operator
+    - ...
+5. Array Methods
+6. Misc
 
-Conditional statement
-Loop
-Function
-EcmaScript
-Template literals
-Spread operator
-...
-Array Methods
-Misc
-====================== NodeJS
-Events Callback, Promise, Async/Await FileSystem
+======================
+NodeJS
+=========================
+Events
+Callback, Promise, Async/Await
+FileSystem
 
-======================= React
+=======================
+React
+========================
 DOM Manipulation
