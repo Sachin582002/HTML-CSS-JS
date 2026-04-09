@@ -176,7 +176,12 @@ h1 {
     - Template literals
     - Spread operator
     - ...
+    - Rest operator
+    - Arrow function
 5. Array Methods
+    - Destructing (Array/Object)
+    - String methods
+    - Object methods
 6. Misc
 
 ======================
