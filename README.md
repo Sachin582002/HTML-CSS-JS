@@ -175,9 +175,9 @@ h1 {
 4. EcmaScript
     - Template literals
     - Spread operator
-    - ...
     - Rest operator
     - Arrow function
+    - Reduce
 5. Array Methods
     - Destructing (Array/Object)
     - String methods
